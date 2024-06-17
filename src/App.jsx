@@ -60,7 +60,7 @@ function App() {
           <ButtonGroup options={['Either', 'Yes', 'No']} />
         </div>
         <div className="flex w-full items-center justify-between mb-2">
-          <p className="font-medium text-sm leading-6">Only Obese</p>
+          <p className="font-medium text-sm leading-6">Obese</p>
           <ButtonGroupFake options={['Either', 'Yes', 'No']} />
         </div>
         <div className="flex w-full items-center justify-between">
